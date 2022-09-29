@@ -1,4 +1,4 @@
-[mywebserver]
+[mywebservers]
 172.31.90.87
 172.31.86.200
 
@@ -9,6 +9,6 @@
 
 
 
-[mywebserver:vars]
+[mywebservers:vars]
 mywebpackageforubuntu:aapche2
 mywebpackageforredhat:httpd
